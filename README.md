@@ -1,16 +1,19 @@
-## Hi there 👋
+# João Pedro Guimarães
 
-<!--
-**joaopedro-g/joaopedro-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor de software e pesquisador em formação na área de Inteligência Artificial.
 
-Here are some ideas to get you started:
+Atualmente estou desenvolvendo uma arquitetura para sistemas autônomos baseada em Inteligência Artificial, Sistemas Multiagentes, Internet das Coisas (IoT) e Edge Computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas de Interesse
+
+- Inteligência Artificial
+- Machine Learning
+- Aprendizado por Reforço
+- Sistemas Multiagentes
+- Internet das Coisas
+- Edge Computing
+- Visão Computacional
+
+## Projeto Atual
+
+Desenvolvimento da arquitetura **AURA**, uma plataforma de pesquisa voltada para tomada de decisão autônoma em ambientes monitorados por sensores inteligentes.
